@@ -1,7 +1,7 @@
 # yyy
 
 pkg update 
-pkgupgrade 
+pkg upgrade 
 pkg install python 
 pkg install python2
 pkg install git
